@@ -81,7 +81,7 @@
        
          <tr>
         <td><td>
-        <button href="index.html" ><strong>Back to Home</strong></button>
+        <a  data-role="button" data-inline="true" href="index.html" data-rel="back">Back To Home</a>
        </td></td>
       </tr>
     
