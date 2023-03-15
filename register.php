@@ -81,7 +81,7 @@
        
          <tr>
         <td><td>
-        <a  data-role="button" data-inline="true" href="index.html" data-rel="back">Back To Home</a>
+        <input type="button" value="Back to home" onclick="history.back()">
        </td></td>
       </tr>
     
