@@ -101,7 +101,7 @@ if(isset($_POST['submit']))
      mysqli_close($con);
 }
 ?>
-
+<button href="index.html" >Back to Home</button>
 </body>
 </html>
 
