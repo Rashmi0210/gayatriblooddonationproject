@@ -78,6 +78,13 @@
       <button type="submit" class="registerbtn" name="submit" ><strong>Submit<strong></button>
        </td></td>
       </tr>
+       
+         <tr>
+        <td><td>
+        <button href="index.html" ><strong>Back to Home</strong></button>
+       </td></td>
+      </tr>
+    
     </table>
     </div>
   </form>
@@ -101,7 +108,7 @@ if(isset($_POST['submit']))
      mysqli_close($con);
 }
 ?>
-<button href="index.html" >Back to Home</button>
+
 </body>
 </html>
 
